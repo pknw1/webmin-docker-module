@@ -1,0 +1,4 @@
+name=docker
+desc=Docker Info
+os_support=solaris redhat-linux debian-linux slackware-linux suse-linux aix hpux freebsd osf1 irix
+category=servers

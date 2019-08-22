@@ -1,0 +1,12 @@
+lang=en
+author=PK
+module_author=PK
+homepage=https://www.github.com/pknw1
+copyright=(C) 2019 by PK
+license=GPL
+
+index_root=Webmin Home
+index_title=Docker Info
+index_not_running_services=Docker is not running. 
+index_running_services=Docker is running. 
+index_ever=Docker was not found on your system. Maybe it is not installed, or your <a href='$2'>module configuration</a> is incorrect.
