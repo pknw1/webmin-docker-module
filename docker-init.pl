@@ -26,6 +26,10 @@ sub get_container_details_status{
 	return $details;
 }
 
+sub run_cli{
+	my $response = system("echo $(date)")
+}
+
 #my $info = `docker ps -f name=xrdp --format '{{.Status}}'`;
 #printf "$info";
 #print $ARGV[0];
